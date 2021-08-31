@@ -17,7 +17,8 @@
         android:text="@string/forecast_for_today"
         android:textSize="26dp"
         android:textStyle="bold"
-        android:layout_marginTop="10dp"/>
+        android:layout_marginTop="10dp"
+        />
 
     <ImageView
         android:id="@+id/location_image"
