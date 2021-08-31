@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherPredict</string>
+    <string name="forecast_for_today">Прогноз за сегодня</string>
+    <string name="choose_city">Выберете город</string>
+    <string name="see_forecast_for_week">Посмотреть прогноз за неделю</string>
+    <string name="see_forecast_for_today">Посмотреть прогноз за сегодня</string>
+    <string name="forecast_for_week">Прогноз за неделю</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+</resources>
